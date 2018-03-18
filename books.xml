@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<books>
+    <book id="1">
+        <BookTitle>A Brief History of Time</BookTitle>
+        <AuthorS>Stephen Hawking</AuthorS>
+        <Genre>Non Fiction</Genre>
+        <Year>1988</Year>
+        <Language>English</Language>
+    </book>
+    <book id="2">
+        <BookTitle>The Little Prince</BookTitle>
+        <AuthorS>Antoine de Saint-Exupery</AuthorS>
+        <Genre>Fiction</Genre>
+        <Year>1943</Year>
+        <Language>French</Language>
+    </book>
+    <book id="3">
+        <BookTitle>Astronomy:A Beginner's Guide to the Universe</BookTitle>
+        <AuthorS>Eric Chaisson,Steve McMillan</AuthorS>
+        <Genre>Non Fiction</Genre>
+        <Year>2012</Year>
+        <Language>English</Language>
+   </book>
+</books>
